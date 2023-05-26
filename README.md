@@ -1,7 +1,9 @@
 # personalPorttfolio786
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 A personal portfolio showcasing projects and skills using HTML, CSS, and JavaScript. Includes interactive elements and a responsive design.
 <h1 align="center">Hi 👋, I'm Kulsum Anwar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulsum0998&label=Profile%20views&color=0e75b6&style=flat" alt="kulsum0998" /> </p>
 
